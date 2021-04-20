@@ -7,13 +7,13 @@ I like to **help other people**, **functional** and **object-oriented programmin
 
 ---
 
-<code align="center">
+<blockquote align="center">
 
 ```
 Your code not works?
 Check if the problem is between the monitor and the chair!
 ```
-</code>
+</blockquote>
 
 ---
 
