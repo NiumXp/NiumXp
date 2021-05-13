@@ -7,7 +7,7 @@ I like to **help other people**, **functional** and **object-oriented programmin
 
 ---
 
-<pre align="center"><code>Your code not works?
+<pre align=center><code>Your code not works?
 Check if the problem is between the monitor and the chair!
 </code></pre>
 
