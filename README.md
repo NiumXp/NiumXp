@@ -7,15 +7,23 @@ I like to **help other people**, **functional** and **object-oriented programmin
 
 ---
 
-<pre align=center><code>Your code not works?
-Check if the problem is between the monitor and the chair!
-</code></pre>
+```py
+() = range(0) # PEP 3132
+```
+
+```go
+package main
+
+// main don't runs :(
+func main() {
+    // Nothing?
+    // Why nothing? Back to fist line!
+}
+```
 
 ---
-
 ![](https://img.shields.io/badge/-Python-fff569?style=for-the-badge&logo=Python&logoColor=242424)
 ![](https://img.shields.io/badge/-Go-52e5ff?&style=for-the-badge&logo=Go&logoColor=242424)
 ![](https://img.shields.io/badge/-MongoDB-63ff8d?&style=for-the-badge&logo=MongoDB&logoColor=242424)
-![](https://img.shields.io/badge/-Git-ff513d?&style=for-the-badge&logo=Git&logoColor=242424)
-
----
+![](https://img.shields.io/badge/-Haskell-white?&style=for-the-badge&logo=Haskell&logoColor=242424)
+![](https://img.shields.io/badge/-Git-ff5454?&style=for-the-badge&logo=Git&logoColor=242424)
