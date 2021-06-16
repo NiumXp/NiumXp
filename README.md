@@ -8,16 +8,14 @@ I like to **help other people**, **functional** and **object-oriented programmin
 ---
 
 ```py
-() = range(0) # PEP 3132
+() = range(0)  # PEP 3132
 ```
 
 ```go
-package main
+package main
 
-// main don't runs :(
 func main() {
-    // Nothing?
-    // Why nothing? Back to fist line!
+    // Go is not weird like Python, don't worry :D
 }
 ```
 
