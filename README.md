@@ -19,6 +19,12 @@ func main() {
 }
 ```
 
+```hs
+λ> 2+2 = 5
+λ> 2+2
+5
+```
+
 ---
 ![](https://img.shields.io/badge/-Python-fff569?style=for-the-badge&logo=Python&logoColor=242424)
 ![](https://img.shields.io/badge/-Go-52e5ff?&style=for-the-badge&logo=Go&logoColor=242424)
