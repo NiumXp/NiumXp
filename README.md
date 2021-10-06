@@ -28,6 +28,7 @@ func main() {
 ---
 ![](https://img.shields.io/badge/-Python-fff569?style=for-the-badge&logo=Python&logoColor=242424)
 ![](https://img.shields.io/badge/-Go-52e5ff?&style=for-the-badge&logo=Go&logoColor=242424)
-![](https://img.shields.io/badge/-MongoDB-63ff8d?&style=for-the-badge&logo=MongoDB&logoColor=242424)
 ![](https://img.shields.io/badge/-Haskell-white?&style=for-the-badge&logo=Haskell&logoColor=242424)
 ![](https://img.shields.io/badge/-Git-ff5454?&style=for-the-badge&logo=Git&logoColor=242424)
+![](https://img.shields.io/badge/-MongoDB-63ff8d?&style=for-the-badge&logo=MongoDB&logoColor=242424)
+![](https://img.shields.io/badge/-AWS-1E1E1E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=ffffff)
